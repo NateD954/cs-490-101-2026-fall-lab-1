@@ -1,4 +1,4 @@
-# Team Information
+  # Team Information
 
 ## Team Name
 
@@ -11,6 +11,7 @@ Nathaniel Dickson
 ## Team Members
 
 - Nathaniel Dickson
-- John Smith
-- Alice Johnson
-- Bob Williams
+- Kirollos Boktor
+- Sadain Siddique
+- Nick Cai
+- Ismael Hussein
