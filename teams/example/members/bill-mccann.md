@@ -2,18 +2,18 @@
 
 ## My Name
 
-Bill McCann
+Nathaniel Dickson
 
 ## Favorite Technology
 
-VS Code
+Intellij
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
+- Climbing
+- Baking
 - Gaming
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+Adventure Time
