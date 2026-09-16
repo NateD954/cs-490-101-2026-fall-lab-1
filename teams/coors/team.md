@@ -2,15 +2,15 @@
 
 ## Team Name
 
-Merge Conflict Survivors
+Coors
 
 ## Project Manager
 
-Jane Doe
+Nathaniel Dickson
 
 ## Team Members
 
-- Jane Doe
+- Nathaniel Dickson
 - John Smith
 - Alice Johnson
 - Bob Williams
